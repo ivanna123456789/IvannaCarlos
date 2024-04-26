@@ -22,3 +22,8 @@ header div ul{
 header div ul li{
     padding: 10px;
 }
+
+footer{
+	background-color: grey;
+	color: yellow;
+}
