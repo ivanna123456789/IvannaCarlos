@@ -30,14 +30,3 @@ footer{
 	background-color: grey;
 	color: yellow;
 }
-@media screen and (max-width: 540px){
-    header div h1, header div ul{
-        width: 100%;
-    }
-    header div ul{
-        justify-content: space-evenly;
-    }
-    header div h1{
-        text-align: center;
-    }
-}
