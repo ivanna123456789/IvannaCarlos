@@ -32,15 +32,13 @@ footer{
 }
 @media screen and (max-width: 540px){
     header div h1, header div ul{
-        width: 100%;
+	width:100%;
     }
     header div ul{
-        justify-content: space-evenly;
+	justify-content: space-evenly;
     }
     header div h1{
-        text-align: center;
+	text-align: center;
     }
-    section{
-        background-color: lightgrey;
-    }
+
 }
